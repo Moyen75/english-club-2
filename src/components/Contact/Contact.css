@@ -1,0 +1,9 @@
+.contact{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 4px;
+}
+.contact-heading{
+    margin: 4px;
+    padding: 20px;
+}

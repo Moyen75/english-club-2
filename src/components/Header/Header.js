@@ -14,8 +14,8 @@ const Header = () => {
                 <img className='logo' src={logo} alt="" />
                 <div className='d-flex mt-2 '>
                     <Link style={linkStyle} to={'/home'}>Home</Link>
-                    <Link style={linkStyle} to={'/about'}>About</Link>
                     <Link style={linkStyle} to={'/services'}>Services</Link>
+                    <Link style={linkStyle} to={'/about'}>About</Link>
                     <Link style={linkStyle} to={'/contact'}>Contact us</Link>
                 </div>
             </div>
