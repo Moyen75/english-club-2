@@ -22,5 +22,29 @@
         "courseDetail": "In this course, you will improve your English pronunciation skills and learn about speaking English in today's globalised world.",
         "courseThumb": "https://cdn.ihcairoeg.com/wp-content/uploads/2021/03/people-talking-e1614845111552.jpg",
         "price": "148"
+    },
+    {
+        "courseName": "French",
+        "courseDetail": "In this course, you will improve your French skills and learn about speaking French in today's globalised world.",
+        "courseThumb": "https://citytoday.news/wp-content/uploads/2016/08/french-language.jpg",
+        "price": "248"
+    },
+    {
+        "courseName": "Chinese",
+        "courseDetail": "In this course, you will improve your Chinese skills and learn about speaking Chinese in today's globalised world.",
+        "courseThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHglTyj1Daajno27M1ECLVbf1NPos8uCfSig&usqp=CAU",
+        "price": "218"
+    },
+    {
+        "courseName": "Japanese",
+        "courseDetail": "In this course, you will improve your Japanese skills and learn about speaking Japanese in today's globalised world.",
+        "courseThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrRRwODVG4fQKZF0cp0f1uX8cGsU4vQLfUQ&usqp=CAU",
+        "price": "308"
+    },
+    {
+        "courseName": "Phonetics",
+        "courseDetail": "In this course, you will improve your  Phonetics skills and learn about Phonetics in today's globalised world.",
+        "courseThumb": "http://www.englishclubbd.com/images/phonemic-chart-englishclubbd.png",
+        "price": "148"
     }
 ]
