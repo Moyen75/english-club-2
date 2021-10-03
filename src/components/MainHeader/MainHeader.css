@@ -1,0 +1,15 @@
+.banner-text{
+    position: relative;
+    z-index: 1;
+    max-width: 600px;
+    margin: 50px;
+    top: 100px;
+    color: white;
+}
+.banner {
+    background-image: url('../../images/A3K_HomeHeader_large_eQJwdRV.original.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
